@@ -50,7 +50,7 @@ this.setState({
         <NewMovie addMovie = {this.addMovie}/>
        <MovieInfo movies={this.state.movies} delMovie={this.delMovie}></MovieInfo>
 
-       <a href="https://www.w3schools.com">W3Schools</a>
+       
       </div>
     );
   }
